@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329850610766",
+    "project_id": "koldovan-e8de8",
+    "storage_bucket": "koldovan-e8de8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329850610766:android:774ef89820c259cd124f1f",
+        "android_client_info": {
+          "package_name": "estionleon.tiolys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329850610766-j2f3f3g1etkabrqdf99sqdjjear0f721.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6xKKHhmM_ikCqa8usjFHWtSbilg2dae8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329850610766-j2f3f3g1etkabrqdf99sqdjjear0f721.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
